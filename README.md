@@ -24,7 +24,7 @@ Clean completed and failed jobs
 
 Gmail / SMTP providers supported
 
-Error handling for Google send-limit (550-5.4.5)
+Error handling  
 
  5. Advanced Worker System
 
