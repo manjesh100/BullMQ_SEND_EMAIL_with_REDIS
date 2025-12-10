@@ -1,0 +1,29 @@
+{
+  "name": "bullmq_send_email_with_redis",
+  "version": "1.0.0",
+  "description": ".",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "dependencies": {
+    "@bull-board/ui": "^6.15.0",
+    "@faker-js/faker": "^9.9.0",
+    "bull": "^4.16.5",
+    "bullmq": "^5.65.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "express-async-error": "^0.0.2",
+    "ioredis": "^5.8.2",
+    "nodemailer": "^7.0.11",
+    "nodemon": "^3.1.11",
+    "redis": "^5.10.0",
+    "winston": "^3.19.0",
+    "winston-daily-rotate-file": "^5.0.0",
+    "wisdom": "^16.0.6"
+  }
+}
